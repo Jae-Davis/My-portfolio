@@ -1,0 +1,72 @@
+html{
+  background: rgba(189, 140, 156, 0.808);
+}
+
+header, h2, p, ol, ul, h4{
+  text-align: center;
+  color: rgb(233, 246, 253);
+  font-family: ;
+  letter-spacing: 1px;
+  font-family: monospace;
+}
+
+.jae{
+length: 300px;
+width: 500px;
+border-radius: 50px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.web{
+  length: 70px;
+  width: 70px;
+  float: right;
+  margin-top: -30px;
+  margin-left: 10px;
+}
+.web:hover{
+  opacity: 0.5;
+}
+
+
+nav{
+  padding: 50px;
+  background-color: rgba(233, 247, 255, 0.616);
+  border-radius: 10px;
+}
+
+
+h2{
+  font-size: 40px;
+}
+h3, h4{
+  font-size: 20px;
+}
+h1{
+  font-size: 80px;
+}
+
+hr{
+  margin: 40px;
+  height: 2px;
+  background-color: rgba(233, 247, 255, 0.616);
+  border-radius: 10px;
+}
+
+li{
+  list-style-position: inside;
+}
+
+.mail:link{color: rgb(233, 246, 253);}
+.mail:visited{color: thistle;}
+.mail:hover{color: steelblue;}
+.mail:active{color: midnightblue;}
+
+.end{
+  padding: 30px;
+  background-color: rgba(233, 247, 255, 0.616);
+  border-radius: 10px;
+  color: black;
+}
