@@ -76,3 +76,6 @@ li, p{
 /*gives the email link and different color depending
  on which action you choose*/
 
+@media screen and (max-width: 800px){
+  .web, .jae,{
+    width: 100%;
