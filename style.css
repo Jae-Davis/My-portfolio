@@ -2,10 +2,10 @@ html{
   background: rgba(48, 0, 16, 0.89);
 } /*targets the whole background color of the webpage*/
 
-header,main, h2, p, ol, ul, h4, h6{
+header,main, h2, p, ol, ul, li, h4, h6{
   text-align: center;
   color: rgb(233, 246, 253);
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
   font-family: monospace;
   flex: 1%;
 }/*changes the color, font, the position of the text and the 
@@ -64,8 +64,9 @@ hr{
 li, p{
   list-style-position: inside;
   text-align: center;
-  margin-left: 70px;
-  margin-right: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 15px;
   flex: 1%;
 }/*keep the bullets and numbers close to the listed items*/
 
