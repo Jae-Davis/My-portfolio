@@ -7,6 +7,7 @@ header,main, h2, p, ol, ul, h4, h6{
   color: rgb(233, 246, 253);
   letter-spacing: 0.5px;
   font-family: monospace;
+  flex: 1%;
 }/*changes the color, font, the position of the text and the 
  spacing of the text of the header, h2, p, ool, ul, & h4*/
 
@@ -16,6 +17,7 @@ header,main, h2, p, ol, ul, h4, h6{
  display: block;
  margin-left: auto;
  margin-right: auto;
+ flex: 1%;
 }/*changes the size, position and the borders
  of the main picture of me*/
 
@@ -37,6 +39,7 @@ nav, .end{
   background-color: rgba(233, 247, 255, 0.616);
   border-radius: 20px;
   color: black;
+  flex: 1%;
 }/*this is the section that is highlighted at the top of the page, the solid border*/
 
 
@@ -55,6 +58,7 @@ hr{
   height: 3px;
   background-color: rgba(233, 247, 255, 0.616);
   border-radius: 10px;
+  flex: 1%;
 }/*adjust the line strikes in between the paragraphs*/
 
 li, p{
@@ -62,6 +66,7 @@ li, p{
   text-align: center;
   margin-left: 100px;
   margin-right: 100px;
+  flex: 1%;
 }/*keep the bullets and numbers close to the listed items*/
 
 .mail:link{color: rgb(233, 246, 253);}
