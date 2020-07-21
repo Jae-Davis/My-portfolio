@@ -64,8 +64,8 @@ hr{
 li, p{
   list-style-position: inside;
   text-align: center;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 70px;
+  margin-right: 70px;
   flex: 1%;
 }/*keep the bullets and numbers close to the listed items*/
 
