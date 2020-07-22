@@ -2,7 +2,7 @@ html{
   background: rgba(48, 0, 16, 0.89);
 } /*targets the whole background color of the webpage*/
 
-header,main, h2, p, ol, ul, li, h4, h6{
+body,main, h2, p, ol, ul, li, h4, h6{
   text-align: center;
   color: rgb(233, 246, 253);
   letter-spacing: 1px;
